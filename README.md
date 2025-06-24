@@ -35,7 +35,7 @@ Welcome to my GitHub! Here you’ll find a blend of side projects and open resea
 
 - **BSc, Computer Science & Molecular/Cellular Biology**  
   _University of Waikato_
-  Undergraduate Research Project: Computationally Assisted Antibody Engineering (Domain-specific Nanopore Sequencing Model Fine-tunning)
+  Undergraduate Research Project: *Computationally Assisted Antibody Engineering (Domain-specific Nanopore Sequencing Model Fine-tunning)*
 
 ---
 
