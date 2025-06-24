@@ -31,10 +31,12 @@ Welcome to my GitHub! Here you’ll find a blend of side projects and open resea
 ## 🎓 Education
 - **MS (Research), Computer Science (Bioinformatics & Machine Learning)**  
   _University of Waikato_
+
   Thesis: *Predicting The Mutational Trajectories Behind Viral Zoonotic Events*
 
 - **BSc, Computer Science & Molecular/Cellular Biology**  
   _University of Waikato_
+
   Research Project: *Computationally Assisted Antibody Engineering (Domain-specific Nanopore Sequencing Model Fine-tunning)*
 
 ---
